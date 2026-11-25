@@ -1,4 +1,4 @@
-# sociahive-com
+# SociaHive
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,138 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-sociahive-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://sociahive.com/
+SociaHive is an AI‑powered platform that connects to ChatGPT, Claude and over 20 other AI tools to automate social media management. It schedules posts, replies to comments and direct messages, handles bookings and sales, and ensures every action is approved by the user. The service aims to let businesses run their social presence with intelligent assistance, boosting engagement while maintaining control.
+
+**Areas:** AI · Social Media · Automation · Marketing · SaaS
+
+## SociaHive on APIs.io
+
+Everything profiled for SociaHive is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sociahive-com/](https://apis.io/providers/sociahive-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [SociaHive API](https://apis.io/apis/sociahive-com/sociahive-com-api/) — SociaHive API as documented publicly: 47 operations. Contract generated from the documentation by API Evangelist (2026-11-25); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Sociahive Com Webhooks](https://apis.io/asyncapis/sociahive-com/sociahive-com-webhooks/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiV1CalendarActionsPostsIdStatsResponse](https://apis.io/schemas/sociahive-com/sociahive-com-get-api-v1-calendar-actions-posts-id-stats-response/)
+- [GetApiV1PostsIdLinkClicksResponse](https://apis.io/schemas/sociahive-com/sociahive-com-get-api-v1-posts-id-link-clicks-response/)
+- [PatchApiV1PostsIdRequest](https://apis.io/schemas/sociahive-com/sociahive-com-patch-api-v1-posts-id-request/)
+- [PostApiV1ClientInvitesRequest](https://apis.io/schemas/sociahive-com/sociahive-com-post-api-v1-client-invites-request/)
+- [PostApiV1MediaGenerateImageRequest](https://apis.io/schemas/sociahive-com/sociahive-com-post-api-v1-media-generate-image-request/)
+- [PostApiV1UploadsFromUrlResponse](https://apis.io/schemas/sociahive-com/sociahive-com-post-api-v1-uploads-from-url-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Sociahive Com Context](https://apis.io/jsonld/sociahive-com/sociahive-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SociaHive API Rules](https://apis.io/rules/sociahive-com/sociahive-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SociaHive Authentication](https://apis.io/security/sociahive-com/sociahive-com-authentication/)
+- [SociaHive Domain Security](https://apis.io/security/sociahive-com/sociahive-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [SociaHive Plans Pricing](https://apis.io/plans/sociahive-com/sociahive-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [SociaHive Rate Limits](https://apis.io/rate-limits/sociahive-com/sociahive-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sociahive.com/)
+- [Documentation](https://docs.sociahive.com/)
+- [Getting started](https://docs.sociahive.com/docs/setup-guide)
+- [API reference](https://docs.sociahive.com/docs/changelog)
+- [Pricing](https://www.sociahive.com/pricing)
+- [Sign up](https://www.sociahive.com/auto-reply/sign-up)
+- [Support](https://www.sociahive.com/support)
+- [Blog](https://www.sociahive.com/blog)
+- [Terms of service](https://www.sociahive.com/terms)
+- [Privacy policy](https://www.sociahive.com/privacy)
+- [GitHub](https://github.com/sociahive)
+
+## API Evangelist rating
+
+**Kin Score 61.8** — strong · rubric 0.28.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 55.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 51.9 |
+| Developer ergonomics | 64.3 |
+| Access clarity | 59.1 |
+
+**Agent readiness 35.4** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sociahive-com/](https://apis.io/providers/sociahive-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SociaHive: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sociahive-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
